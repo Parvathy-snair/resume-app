@@ -1,7 +1,19 @@
-<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/4931e1fa-05d5-48b2-80a5-d05b43a186c8" /># 📄 Resume Builder — React.js
+
+## 📄 Resume Builder — React.js
 
 A web application that allows users to create, preview, edit, manage, and download professional resumes in PDF format. Built using React.js with a JSON Server backend, this project demonstrates frontend development, REST API integration, PDF generation, cloud storage, and data visualization.
 
+## 📸 Screenshots
+
+Add screenshots of your application here to showcase its interface and functionality.
+
+# Home Page
+
+<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/4931e1fa-05d5-48b2-80a5-d05b43a186c8" />
+
+
+
+Download Statistics
 ## 🌐 Live Demo
 
 - **Live Application:** https://resume-ha4l24r7f-parvathy-snairs-projects.vercel.app/
